@@ -10,4 +10,5 @@
 </ol>
 <hr>
 <h2>AI - Artificial Intelligence</h2>
-<p>Apesar de não haver um consenso sobre o que seja exatamente <b>Inteligência Artificial</b>, diferentes autores procuraram definir o termo ao longo do tempo. A seguir listamos algumas dessas definições: ∀x</p>
+<p>Apesar de não haver um consenso sobre o que seja exatamente <b>Inteligência Artificial</b>, diferentes autores procuraram definir o termo ao longo do tempo. A seguir listamos algumas dessas definições:</p>
+<i>"A automação de atividades que associamos ao pensamento humano"</i>
