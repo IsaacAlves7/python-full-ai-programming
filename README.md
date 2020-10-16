@@ -30,7 +30,7 @@ Algumas possibilidades são:
 <ul>
   <li>Jogar xadrez?</li>
   <li>Entender a linguagem humana?</li>
-  <li>Resolver problemas trabalhosos e complexos?</li>
+  <li>Resolver problemas combinatórios trabalhosos e complexos?</li>
   <li>Decidir diante a incerteza?</li>   
   <li>Reconhecer um objeto pela a imagem?</li> 
   <li>Prever um acontecimento?</li>
