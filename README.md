@@ -80,6 +80,8 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
   <li>Algumas aplicações: problemas gerais de roteamento, controle de sistemas dinâmicos, indução e otimização de bases de regras, encontrar topologias conexionistas, simulação de modelos biológicos, evolução interativa de imagens.</li>   
 </ul>
 
+<p>Em suma, o <b>conhecimento</b> é a base para o desenvolvimento de modelos que envolvam <b>inteligência</b>. Como todos os paradigmas citados serão abordados ao longo da disciplina, a abordagem de cada técnica não será extensa nem profunda, para que todas elas possam ser abordadas e possamos as diferentes inspirações e aplicações.</p>
+
 <h2>🌳 Sistemas baseados em Conhecimento 🎄</h2>
 <img src="https://youwilldobetter.com/wp-content/uploads/2014/11/webinar-conhecimento.jpg" width="1070"/>
 <p></p>
