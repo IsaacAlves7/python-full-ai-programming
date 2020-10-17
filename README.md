@@ -115,7 +115,7 @@ Os <b>operadores</b> executam <b>transformações na base de estados</b>, ou sej
 
 Se pudermos escolher entre diversos operadores em uma determinada situação, então precisamos de uma <b>estratégia de controle</b>.
 
-<b>O sistema basicamente computa:<b>
+<b>O sistema basicamente computa:</b>
 <pre><b>Estado &larr; estado inicial</b></pre>
 
 <b>Enquanto não for satisfeita uma condição de término: Selecione um operador R</b>
