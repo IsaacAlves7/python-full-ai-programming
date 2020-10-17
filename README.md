@@ -102,6 +102,8 @@ O <i>jogo</i> em si é uma <b>sucessão de estados distintos, reconhecíveis e i
 
 <li>A terceira condição que deve estar presente é haver um "<b>estado inicial</b>" e um ou mais "<b>estados finais</b>" a serem atingidos. Nos jogos de tabuleiro a situação inicial é a posição das peças antes do início do jogo e a situação final é um estado que caracterize o encerramento do jogo, quer com a vitória de algum dos oponentes, quer com o empate.</li>
 </ol>
+
+Em um jogo de xadrez isso pode ser caracterizado tanto por um “cheque mate” (vitória) quanto por um “afogamento do rei (empate)”. Naturalmente existem muitas configurações de “cheque mate”, mas o importante é que esse estado pode ser caracterizado e reconhecido. Além de jogos de tabuleiro muitos outros problemas possuem essas características. Uma classe importante deles, que constituem uma das principais aplicações práticas para as técnicas que estudaremos a seguir, são os problemas de <b>roteamento</b> em geral.
 </p>
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
