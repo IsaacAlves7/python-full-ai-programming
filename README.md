@@ -93,6 +93,8 @@ A primeira delas é que deve ser possível <b>representar e reconhecer as situa�
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
 <img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1070"/>
 <p></p>
+
+### Ilustrando um exemplo de rede neural
 <img src="https://miro.medium.com/max/3000/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="1070"/>
 
 <h2>🔀 Sistemas Nebulosos (Lógica Fuzzy) 💹</h2>
