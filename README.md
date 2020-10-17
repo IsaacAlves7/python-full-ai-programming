@@ -103,7 +103,13 @@ O <i>jogo</i> em si é uma <b>sucessão de estados distintos, reconhecíveis e i
 <li>A terceira condição que deve estar presente é haver um "<b>estado inicial</b>" e um ou mais "<b>estados finais</b>" a serem atingidos. Nos jogos de tabuleiro a situação inicial é a posição das peças antes do início do jogo e a situação final é um estado que caracterize o encerramento do jogo, quer com a vitória de algum dos oponentes, quer com o empate.</li>
 </ol>
 
-Em um jogo de xadrez isso pode ser caracterizado tanto por um “cheque mate” (vitória) quanto por um “afogamento do rei (empate)”. Naturalmente existem muitas configurações de “cheque mate”, mas o importante é que esse estado pode ser caracterizado e reconhecido. Além de jogos de tabuleiro muitos outros problemas possuem essas características. Uma classe importante deles, que constituem uma das principais aplicações práticas para as técnicas que estudaremos a seguir, são os problemas de <b>roteamento</b> em geral.
+Em um jogo de xadrez isso pode ser caracterizado tanto por um “cheque mate” (vitória) quanto por um “afogamento do rei (empate)”. Naturalmente existem muitas configurações de “cheque mate”, mas o importante é que esse estado pode ser caracterizado e reconhecido. Além de jogos de tabuleiro muitos outros problemas possuem essas características. 
+
+Uma <em>classe</em> importante deles, que constituem uma das principais aplicações práticas para as técnicas que estudaremos a seguir, são os problemas de <b>roteamento</b> em geral.
+
+Os <b>Sistemas de Produção</b> se caracterizam como sendo possuidores de uma <b>base de estados, um conjunto de operadores e uma estratégia de controle</b>. A <b>bases de estados</b> é o conjunto de configurações que o problema pode assumir.
+
+Os <b>operadores</b> executam <b>transformações na base de estados</b>, ou seja, <b>levam o problema de um estado a outro</b>. Resolver o problema é, na verdade, determinar a <b>sequência de operadores</b> que deve ser aplicada a partir do <b>estado inicial</b>, de forma a atingir <b>um dos estados finais</b>. Se pudermos escolher entre diversos operadores em uma determinada situação, então precisamos de uma <i>estratégia de controle</i>.
 </p>
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
