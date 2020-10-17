@@ -107,9 +107,13 @@ Em um jogo de xadrez isso pode ser caracterizado tanto por um “cheque mate” 
 
 Uma <em>classe</em> importante deles, que constituem uma das principais aplicações práticas para as técnicas que estudaremos a seguir, são os problemas de <b>roteamento</b> em geral.
 
-Os <b>Sistemas de Produção</b> se caracterizam como sendo possuidores de uma <b>base de estados, um conjunto de operadores e uma estratégia de controle</b>. A <b>bases de estados</b> é o conjunto de configurações que o problema pode assumir.
+Os <b>Sistemas de Produção</b> se caracterizam como sendo possuidores de uma <b>base de estados, um conjunto de operadores e uma estratégia de controle</b>.
 
-Os <b>operadores</b> executam <b>transformações na base de estados</b>, ou seja, <b>levam o problema de um estado a outro</b>. Resolver o problema é, na verdade, determinar a <b>sequência de operadores</b> que deve ser aplicada a partir do <b>estado inicial</b>, de forma a atingir <b>um dos estados finais</b>. Se pudermos escolher entre diversos operadores em uma determinada situação, então precisamos de uma <i>estratégia de controle</i>.
+A <b>bases de estados</b> é o conjunto de configurações que o problema pode assumir.
+
+Os <b>operadores</b> executam <b>transformações na base de estados</b>, ou seja, <b>levam o problema de um estado a outro</b>. Resolver o problema é, na verdade, determinar a <b>sequência de operadores</b> que deve ser aplicada a partir do <b>estado inicial</b>, de forma a atingir <b>um dos estados finais</b>. 
+
+Se pudermos escolher entre diversos operadores em uma determinada situação, então precisamos de uma <b>estratégia de controle</b>.
 </p>
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
