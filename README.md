@@ -119,7 +119,7 @@ Se pudermos escolher entre diversos operadores em uma determinada situação, en
 <pre><b>Estado &larr; estado inicial</b></pre>
 
 <b>Enquanto não for satisfeita uma condição de término: Selecione um operador R</b>
-<pre><b>Novo estado &larr; R (estado atual)<b></pre>
+<pre><b>Novo estado &larr; R (estado atual)</b></pre>
 
 A condição de término é alcançada se foi atingido um estado final, se não há mais operadores aplicáveis ao estado atual ou se não há mais recursos computacionais.</p>
 
