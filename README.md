@@ -46,7 +46,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 
 <h3>🌳 Sistemas baseados em conhecimento</h3>
 <ul>
-  <li>(Buscas em tabelas, árvores de decisão, busca heurística, sistemas baseados em regras).</li>
+  <li><b>Buscas em tabelas, árvores de decisão, busca heurística, sistemas baseados em regras</b>.</li>
   <li>Lidam com conhecimento explícito e representado simbolicamente.</li>  
   <li>Examinam o seu raciocínio.</li> 
   <li>Podem justificar conclusões.</li> 
