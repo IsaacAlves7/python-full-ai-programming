@@ -86,7 +86,6 @@ A primeira técnica que estudaremos, aplica-se a uma classe de problemas que ser
 
 <h2>🧰 Sistemas de Produção 🦾</h2>
 <img src="https://intellipaat.com/blog/wp-content/uploads/2020/05/Production-System-in-Artificial-Intelligence-Big.jpg" width="1000"/>
-<p>A primeira técnica que estudaremos, aplica-se a uma <em>classe de problemas</em> que será definida mais à frente e que é genericamente chamada de <b>Sistemas de Produção</b>.
   
 <b>Sistemas de Produção</b> são sistemas computacionais de <b>propósito específico</b>, baseados em <b>conhecimento restrito e especificável</b>. O tipo de problema que pode ser abordado com essa técnica deve possuir três características:
 <ol>
