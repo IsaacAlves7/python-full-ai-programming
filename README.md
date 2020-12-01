@@ -167,7 +167,7 @@ A estratégia consiste em expandir os estados a partir do estado inicial, aplica
 <p>Existe ainda uma alteração que melhora a busca em profundidade. Neste método, quando o algoritmo fracassa em atingir m estado final, de acordo com os critérios do método irrevogável, volta-se para o nó pai e escolhe-se outro operador. Caso não seja possível escolher outro operador para este nó, volta-se mais um nível, repetindo-se o processo até que seja atingido o nó raiz. 
 
 Por causa da volta ao nó pai, este método também é conhecido como <b>backtracking</b>. Agindo desta forma, o algoritmo garante que, caso haja alguma solução, ela será encontrada, já que todos os caminhos serão investigados (a busca é exaustiva). Veja uma ilustração da estratégia no gráfico da figura 1.3.
-<div align="center"><img src=""/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/100810014-3fd85880-3416-11eb-9707-9889dc5aa113.jpg"/></div>
 Neste método, ao invés de escolhermos um operador para ser aplicado em um estado, gerarmos um novo estado e repetirmos o processo sucessivamente. Assim, o que se faz é investigar todos os operadores que podem ser aplicados àquele nó e gerar todos os filhos possíveis. Veja o gráfico explicativo da estratégia na figura.</p>
 
 
