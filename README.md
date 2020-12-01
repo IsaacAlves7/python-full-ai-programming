@@ -114,7 +114,7 @@ Uma <em>classe</em> importante deles, que constituem uma das principais aplicaç
 A <b>bases de estados</b> é o conjunto de configurações que o problema pode assumir.
 
 Os <b>operadores</b> executam <b>transformações na base de estados</b>, ou seja, <b>levam o problema de um estado a outro</b>. Resolver o problema é, na verdade, determinar a <b>sequência de operadores</b> que deve ser aplicada a partir do <b>estado inicial</b>, de forma a atingir <b>um dos estados finais</b>. 
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Breadth-First-Search-Algorithm.gif/250px-Breadth-First-Search-Algorithm.gif"/></div>
+
 Se pudermos escolher entre diversos operadores em uma determinada situação, então precisamos de uma <b>estratégia de controle</b>.
 
 <b>O sistema basicamente computa:</b>
@@ -126,7 +126,7 @@ Se pudermos escolher entre diversos operadores em uma determinada situação, en
 A condição de término é alcançada se foi atingido um estado final, se não há mais operadores aplicáveis ao estado atual ou se não há mais recursos computacionais.</p>
 
 <h3>Representação</h3>
-<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQY7Y00DM6-tBDQMxI9pv9OXRDw4vSF4qyA&usqp=CAU"/></div>
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Breadth-First-Search-Algorithm.gif/250px-Breadth-First-Search-Algorithm.gif"/></div>
 <p>É possível representar um <b>Sistema de Produção</b> através de <b>Grafos de Estado</b>. 
 
 Os <b>grafos</b> são constituídos por <b>conjuntos de vértices e de arestas</b>. É possível representar graficamente este conceito. 
