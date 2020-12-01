@@ -93,7 +93,7 @@ O tipo de problema que pode ser abordado com essa técnica deve possuir três ca
 <ol>
 <li>A primeira delas é que deve ser possível <b>representar e reconhecer as situações estáticas do problema</b>, que podem ser chamadas de “<b>estados</b>”. Ou seja, são problemas caracterizados por <b>evoluírem em uma sequência de estados distintos e identificáveis</b>.</p>
 
-<h3>Exemplo: ♚♛♜♝♞♟ Xadrez (Chess) ♙♘♗♕♖♔   </h3>
+<h3>🧰♚♛♜♝♞♟ Xadrez ♙♘♗♕♖♔🦾</h3>
 <img src="https://blog.megajogos.com.br/wp-content/uploads/2019/10/banner_xadrez.png" width="1050" title="Chess"/>
 
 <p>Por exemplo, os problemas que envolvem <em>jogos de tabuleiro</em>, em geral possuem essa característica. Em um jogo de <b>xadrez</b>, damas ou gamão, a situação do tabuleiro após cada lance de um dos adversários caracteriza <b>um “estado”</b> do jogo. 
@@ -135,8 +135,8 @@ Por exemplo, um <em>grafo</em> <b>G</b> com <em>vértices</em> <b>V</b> = {a, b,
 
 <p>Em um <strong>grafo de estados</strong>, cada vértice representa um estado e cada aresta a aplicação de um operador que causa a mudança de estado.
   
-Vamos apresentar um exemplo que pode ser representado como um grafo de estados e é conhecido como o problema dos <b>jarros d’água</b>🏺🏺:
-
+Vamos apresentar um exemplo que pode ser representado como um grafo de estados e é conhecido como o problema dos <b>jarros d’água</b>:
+<h3>🧰🏺 Jarros d'água 🏺🦾</h3>
 Considere dois jarros opacos, nos quais não é possível observar o conteúdo. Um jarro A tem capacidade para 4 litros e um jarro B tem capacidade para 3 litros. Queremos colocar exatamente dois litros de água no jarro A. Para tanto, temos as seguintes operações disponíveis: encher totalmente um dos jarros; esvaziar totalmente um dos jarros; e, passar o conteúdo de um jarro para o outro. 
 </p>
 
