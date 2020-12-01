@@ -154,7 +154,7 @@ Inicialmente os jarros estão vazios, assim, o estado inicial é (0, 0). O que o
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/100782443-308fe580-33eb-11eb-9846-fd2a0ef91e62.jpg"/></div>
 <p align="center"><em><strong>Figura 1.2:</strong> Um grafo com alguns estados e transições do problema das jarras.</em></p>
 <blockquote><strong>⚠️ Atenção!</strong> Em um <b>grafo de estados</b> pode haver ciclos de forma que operações sucessivas causem retorno a um estado anterior. Essa situação é indesejada, como indicado na parte mais de baixo da figura 1.2, na qual a aplicação sucessiva dos operadores R1 e R3 causou o retorno ao estado inicial. </blockquote>
-
+<h2>🧰 Definição de uma estratégia ou método de busca 🦾</h2>
 
 
 
