@@ -156,7 +156,7 @@ Inicialmente os jarros estão vazios, assim, o estado inicial é (0, 0). O que o
 <blockquote><strong>⚠️ Atenção!</strong> Em um <b>grafo de estados</b> pode haver ciclos de forma que operações sucessivas causem retorno a um estado anterior. Essa situação é indesejada, como indicado na parte mais de baixo da figura 1.2, na qual a aplicação sucessiva dos operadores R1 e R3 causou o retorno ao estado inicial. </blockquote>
 <h2>🧰🔎 Definição de uma estratégia ou método de busca 🔍🦾</h2>
 <p>O objetivo em um <em>Sistema de Produção</em> é obter uma seqüência de operadores que levem um problema do estado inicial a um estado final. A forma sistemática de percorrer o grafo à procura desta seqüência, é chamada de <b>Método ou Estratégia de Busca</b>. Um Método de Busca constrói uma <b>Árvore de Busca</b>, na qual a raiz é o estado inicial e os nós filhos são obtidos pela aplicação sucessiva dos operadores.
-
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Breadth-First-Search-Algorithm.gif/250px-Breadth-First-Search-Algorithm.gif"/></div>
 Cada estado só deve aparecer uma vez na árvore, de forma que, caso a aplicação de um operador sobre um determinado estado leve a outro estado que já está na árvore, então este novo estado deve ser descartado (não deve ser incluído na árvore). Isto equivale a dizer que este operador não é aplicável a este estado neste ramo especifico da árvore.</p>
 
 
@@ -253,7 +253,7 @@ Cada estado só deve aparecer uma vez na árvore, de forma que, caso a aplicaç�
 <img src="https://emgotas.files.wordpress.com/2016/11/lc3b3gica-fuzzy2.jpg?w=840" width="1070"/>
 <p></p>
 <h2>🧬 Computação Evolucionária (Algoritmos Genéticos) 👨‍👩‍👦</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Breadth-First-Search-Algorithm.gif/250px-Breadth-First-Search-Algorithm.gif"/>
+
 <img src="https://www.genengnews.com/wp-content/uploads/2019/05/GettyImages-1084312676.jpg" width="1070"/>
 <p></p>
 -->
