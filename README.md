@@ -82,7 +82,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 
 <p>Em suma, o <b>conhecimento</b> é a base para o desenvolvimento de modelos que envolvam <b>inteligência</b>.
 
-A primeira técnica que estudaremos, aplica-se a uma classe de problemas que será definida mais à frente e que é genericamente chamada de <b>Sistemas de Produção</b>.</p>
+A primeira técnica que estudaremos, aplica-se a uma <em>classe de problemas</em> que será definida mais à frente e que é genericamente chamada de <b>Sistemas de Produção</b>.</p>
 
 <h2>🧰 Sistemas de Produção 🦾</h2>
 <img src="https://intellipaat.com/blog/wp-content/uploads/2020/05/Production-System-in-Artificial-Intelligence-Big.jpg" width="1000"/>
