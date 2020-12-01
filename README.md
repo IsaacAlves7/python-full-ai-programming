@@ -155,7 +155,9 @@ Inicialmente os jarros estão vazios, assim, o estado inicial é (0, 0). O que o
 <p align="center"><em><strong>Figura 1.2:</strong> Um grafo com alguns estados e transições do problema das jarras.</em></p>
 <blockquote><strong>⚠️ Atenção!</strong> Em um <b>grafo de estados</b> pode haver ciclos de forma que operações sucessivas causem retorno a um estado anterior. Essa situação é indesejada, como indicado na parte mais de baixo da figura 1.2, na qual a aplicação sucessiva dos operadores R1 e R3 causou o retorno ao estado inicial. </blockquote>
 <h2>🧰🔎 Definição de uma estratégia ou método de busca 🔍🦾</h2>
-<p>O objetivo em um <em>Sistema de Produção</em> é obter uma seqüência de operadores que levem um problema do estado inicial a um estado final. A forma sistemática de percorrer o grafo à procura desta seqüência, é chamada de <b>Método ou Estratégia de Busca</b>. Um Método de Busca constrói uma <em>Árvore de Busca</em>, na qual a raiz é o estado inicial e os nós filhos são obtidos pela aplicação sucessiva dos operadores.</p>
+<p>O objetivo em um <em>Sistema de Produção</em> é obter uma seqüência de operadores que levem um problema do estado inicial a um estado final. A forma sistemática de percorrer o grafo à procura desta seqüência, é chamada de <b>Método ou Estratégia de Busca</b>. Um Método de Busca constrói uma <b>Árvore de Busca</b>, na qual a raiz é o estado inicial e os nós filhos são obtidos pela aplicação sucessiva dos operadores.
+
+Cada estado só deve aparecer uma vez na árvore, de forma que, caso a aplicação de um operador sobre um determinado estado leve a outro estado que já está na árvore, então este novo estado deve ser descartado (não deve ser incluído na árvore). Isto equivale a dizer que este operador não é aplicável a este estado neste ramo especifico da árvore.</p>
 
 
 
