@@ -94,7 +94,6 @@ O tipo de problema que pode ser abordado com essa técnica deve possuir três ca
 
 <p>Por exemplo, os problemas que envolvem <em>jogos de tabuleiro</em>, em geral possuem essa característica. Em um jogo de <b>xadrez</b>, damas ou gamão, a situação do tabuleiro após cada lance de um dos adversários caracteriza <b>um “estado”</b> do jogo. 
 
-<h3>🧰♚♛♜♝♞♟ Xadrez ♙♘♗♕♖♔🦾</h3>
 <img src="https://blog.megajogos.com.br/wp-content/uploads/2019/10/banner_xadrez.png" width="1050" title="Chess"/>
 
 O <i>jogo</i> em si é uma sucessão de <b>estados distintos, reconhecíveis e identificáveis</b>.</li> 
@@ -243,7 +242,7 @@ Inicialmente os jarros estão vazios, assim, o estado inicial é (0, 0). O que o
 <!--
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
 <img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1040"/>
-<p></p>
+<p></p>🧰♚♛♜♝♞♟ Xadrez ♙♘♗♕♖♔🦾
 ### Imagem ilustrando um exemplo modelo de rede neural
 <img src="https://miro.medium.com/max/3000/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="1070"/>
 <h2>🔀 Sistemas Nebulosos (Lógica Fuzzy) 💹</h2>
