@@ -11,7 +11,7 @@
   <li>Production rules and expert systems</li>
 </ol>
 <hr>
-<h1>🧠🖥️ AI - Artificial Intelligence</h1>
+<h1>🧠 AI - Artificial Intelligence 🖥️</h1>
 <img src="https://s3.amazonaws.com/re-work-production/post_images/821/Untitled_design_%2831%29/original.png?1555488979"/>
 <p>Apesar de não haver um consenso sobre o que seja exatamente <b>Inteligência Artificial</b>, diferentes autores procuraram definir o termo ao longo do tempo. A seguir listamos algumas dessas definições:</p>
 <blockquote><i>"A automação de atividades que associamos ao pensamento humano, atividades tais como tomadas de decisão , resolução de problemas, aprendizado .." - <b>Bellman</b>, 1978.</blockquote></i>
@@ -21,7 +21,7 @@
 <blockquote><i>"O campo de estudos que procura emular comportamento inteligente em termos de processos computacionais.” - <b>Schalkoff</b>, 1990.</b></blockquote></i>
 <blockquote><i>"O ramo da ciência da computação que está interessado em automatizar comportamento inteligente.” - <b>Luger e Stubblefield</b>, 1993.</b></blockquote></i>
 <blockquote><i>"O campo de estudos que busca desenvolver técnicas computacionais para realizar tarefas que requerem inteligência quando realizadas por seres humanos. Envolve o desenvolvimento de tecnologia que permita lidar com categorias tais como raciocínio, aprendizado e percepção.” - <b>Takimoto</b>, 1987.</b></blockquote></i>
-<h2>O que é inteligência?</h2>
+<h2>🤓 O que é inteligência? 🤔</h2>
 <p>De fato, muitas das definições citam <b>inteligência</b> como algo que se deseja <b>simular</b>, <b>emular</b> ou <b>mimetizar</b>. Logo, uma discussão anterior que se faz necessária é: “O que é inteligência?”.<br>
   
 Algumas possibilidades são:
@@ -41,7 +41,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 É provavelmente mais fácil que alguém que tenha uma habilidade mental de realizar cálculos aritméticos complexos seja considerado "inteligente", do que supor inteligente alguém que pode realizar tarefas cotidianas e comezinhas como falar, reconhecer o rosto de uma pessoa, rir de algo engraçado ou decidir quando deve atravessar uma rua com tráfego intenso.
 </p>
 
-<h2>🐱‍🐉 Alguns paradigmas da Inteligência Artificial</h2>
+<h2>🐱‍🐉 Alguns paradigmas da Inteligência Artificial 🐱‍🏍</h2>
 <p>Ao abordar tais questões, os diversos paradigmas, atualmente pesquisados, obtém mais ou menos sucesso, de acordo com suas <b>características</b>, <b>virtudes</b> e <b>limitações</b>. Uma abordagem ligeira desses paradigmas, que serão estudados melhor ao longo da disciplina, é feita a seguir:</p>
 
 <h3>🌳 Sistemas baseados em conhecimento</h3>
@@ -136,7 +136,7 @@ Por exemplo, um <em>grafo</em> <b>G</b> com <em>vértices</em> <b>V</b> = {a, b,
   
 Vamos apresentar um exemplo que pode ser representado como um grafo de estados e é conhecido como o problema dos <b>jarros d’água</b>:
 <h3>🧰🏺 Jarros d'água 🏺🦾</h3>
-Considere dois jarros opacos, nos quais não é possível observar o conteúdo. Um jarro A tem capacidade para 4 litros e um jarro B tem capacidade para 3 litros. Queremos colocar exatamente dois litros de água no jarro A. Para tanto, temos as seguintes operações disponíveis: encher totalmente um dos jarros; esvaziar totalmente um dos jarros; e, passar o conteúdo de um jarro para o outro. 
+Considere <b>dois jarros opacos</b>, nos quais não é possível observar o conteúdo. Um jarro A tem capacidade para 4 litros e um jarro B tem capacidade para 3 litros. Queremos colocar exatamente dois litros de água no jarro A. Para tanto, temos as seguintes operações disponíveis: encher totalmente um dos jarros; esvaziar totalmente um dos jarros; e, passar o conteúdo de um jarro para o outro. 
 </p>
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
