@@ -22,7 +22,7 @@
 <blockquote><i>"O ramo da ciência da computação que está interessado em automatizar comportamento inteligente.” - <b>Luger e Stubblefield</b>, 1993.</b></blockquote></i>
 <blockquote><i>"O campo de estudos que busca desenvolver técnicas computacionais para realizar tarefas que requerem inteligência quando realizadas por seres humanos. Envolve o desenvolvimento de tecnologia que permita lidar com categorias tais como raciocínio, aprendizado e percepção.” - <b>Takimoto</b>, 1987.</b></blockquote></i>
 <h2>🤓 O que é inteligência? 🤔</h2>
-<p>De fato, muitas das definições citam <b>inteligência</b> como algo que se deseja <b>simular</b>, <b>emular</b> ou <b>mimetizar</b>. Logo, uma discussão anterior que se faz necessária é: “O que é inteligência?”.<br>
+<p>De fato, muitas das definições citam <i>inteligência</i> como algo que se deseja <b>simular</b>, <b>emular</b> ou <b>mimetizar</b>. Logo, uma discussão anterior que se faz necessária é: “O que é inteligência?”.<br>
   
 Algumas possibilidades são:
 <ul>
@@ -33,7 +33,7 @@ Algumas possibilidades são:
   <li>Reconhecer um objeto pela a imagem?</li> 
   <li>Reconhecer o som de um objeto e saber distingui-lo?</li>   
   <li>Prever um acontecimento?</li>
-  <li>Falar? Ouvir? Observar? Conversar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Cantar? Aprender? Refletir? Repetir? Interagir? Executar?  Trabalhar? Informar? Solicitar? Acessar? Proteger? Ensinar? Reconhecer? Ou ainda mais polêmico... Amar?</li>
+  <li>Falar? Ouvir? Observar? Conversar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Cantar? Aprender? Refletir? Repetir? Interagir? Executar?  Trabalhar? Informar? Solicitar? Acessar? Proteger? Ensinar? Reconhecer? Raciocinar? Ou ainda mais polêmico... Amar?</li>
 </ul>
 
 De uma forma geral, o termo “inteligência” é revestido de um glamour natural e que remete a coisas, originais, inovadoras ou difíceis de realizar pelo ser humano médio.
@@ -136,7 +136,9 @@ Por exemplo, um <em>grafo</em> <b>G</b> com <em>vértices</em> <b>V</b> = {a, b,
   
 Vamos apresentar um exemplo que pode ser representado como um grafo de estados e é conhecido como o problema dos <b>jarros d’água</b>:
 <h3>🧰🏺 Jarros d'água 🏺🦾</h3>
-Considere <b>dois jarros opacos</b>, nos quais não é possível observar o conteúdo. Um jarro A tem capacidade para 4 litros e um jarro B tem capacidade para 3 litros. Queremos colocar exatamente dois litros de água no jarro A. Para tanto, temos as seguintes operações disponíveis: encher totalmente um dos jarros; esvaziar totalmente um dos jarros; e, passar o conteúdo de um jarro para o outro. 
+Considere <b>dois jarros opacos</b>, nos quais não é possível observar o conteúdo. Um <strong>jarro A</strong> tem capacidade para 4 litros e um <strong>jarro B</strong> tem capacidade para 3 litros. Queremos colocar exatamente dois litros de água no <strong>jarro A</strong>. Para tanto, temos as seguintes operações disponíveis: <em>encher</em> totalmente um dos jarros; <em>esvaziar</em> totalmente um dos jarros; e, <em>passar</em> o conteúdo de um jarro para o outro. 
+
+Primeiramente, é preciso arrumar uma representação para o problema, pois somente assim será possível caracterizar e reconhecer os estados do problema. Cada problema pode ter uma representação distinta. O estado de uma partida de xadrez, por exemplo, pode ser uma </b>foto do tabuleiro ou uma descrição textual das posições das peças</b>. Devemos escolher a representação mais simples possível. Para este problema, o que caracteriza cada estado é a <b>quantidade de água em cada jarro</b>. Portanto, pode-se criar uma representação que seja um par de números, onde o primeiro número representa a quantidade de litros de água no jarro A e o segundo a quantidade no jarro B. Assim, por exemplo, (2, 3) indica que há 2 litros no jarro A e 3 litros no jarro B.
 </p>
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
