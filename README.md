@@ -11,7 +11,7 @@
   <li>Production rules and expert systems</li>
 </ol>
 <hr>
-<h1>1. AI - Artificial Intelligence</h1>
+<h1>🧠🖥️ AI - Artificial Intelligence</h1>
 <img src="https://s3.amazonaws.com/re-work-production/post_images/821/Untitled_design_%2831%29/original.png?1555488979"/>
 <p>Apesar de não haver um consenso sobre o que seja exatamente <b>Inteligência Artificial</b>, diferentes autores procuraram definir o termo ao longo do tempo. A seguir listamos algumas dessas definições:</p>
 <blockquote><i>"A automação de atividades que associamos ao pensamento humano, atividades tais como tomadas de decisão , resolução de problemas, aprendizado .." - <b>Bellman</b>, 1978.</blockquote></i>
@@ -41,7 +41,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 É provavelmente mais fácil que alguém que tenha uma habilidade mental de realizar cálculos aritméticos complexos seja considerado "inteligente", do que supor inteligente alguém que pode realizar tarefas cotidianas e comezinhas como falar, reconhecer o rosto de uma pessoa, rir de algo engraçado ou decidir quando deve atravessar uma rua com tráfego intenso.
 </p>
 
-<h2>Alguns paradigmas da Inteligência Artificial</h2>
+<h2>🐱‍🐉 Alguns paradigmas da Inteligência Artificial</h2>
 <p>Ao abordar tais questões, os diversos paradigmas, atualmente pesquisados, obtém mais ou menos sucesso, de acordo com suas <b>características</b>, <b>virtudes</b> e <b>limitações</b>. Uma abordagem ligeira desses paradigmas, que serão estudados melhor ao longo da disciplina, é feita a seguir:</p>
 
 <h3>🌳 Sistemas baseados em conhecimento</h3>
