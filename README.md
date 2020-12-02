@@ -160,6 +160,10 @@ Inicialmente os jarros estão vazios, assim, o estado inicial é (0, 0). O que o
 <p>O objetivo em um <em>Sistema de Produção</em> é obter uma seqüência de operadores que levem um problema do estado inicial a um estado final. A forma sistemática de percorrer o grafo à procura desta seqüência, é chamada de <b>Método ou Estratégia de Busca</b>. Um Método de Busca constrói uma <b>Árvore de Busca</b>, na qual a raiz é o estado inicial e os nós filhos são obtidos pela aplicação sucessiva dos operadores.
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Breadth-First-Search-Algorithm.gif/250px-Breadth-First-Search-Algorithm.gif"/></div>
 Cada estado só deve aparecer uma vez na árvore, de forma que, caso a aplicação de um operador sobre um determinado estado leve a outro estado que já está na árvore, então este novo estado deve ser descartado (não deve ser incluído na árvore). Isto equivale a dizer que este operador não é aplicável a este estado neste ramo especifico da árvore.</p>
+
+# Síntese do Capítulo 1
+<blockquote></blockquote>
+<hr>
 <h2>🔎🕳️🌳 Descrição das estratégias de busca em profundidade 🌳🕳️🔍</h2>
 <p>A estratégia mais simples possível é a <b>busca em profundidade</b>. Este método procura uma solução qualquer (que não é garantidamente a melhor) e encontra-a ou não (o método não garante que uma solução será encontrada). 
 
