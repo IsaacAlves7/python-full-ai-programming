@@ -182,7 +182,13 @@ Este método sempre encontra o caminho, caso ele exista. Como expande um nível 
 <p align="center"><em><strong>figura 1.5:</strong> Uma configuração de grafo com custos</em></p>
 <p>Os problemas de encontrar uma rota de um ponto a outro são uma simplificação do problema mais genérico conhecido como o <b>“problema do caixeiro viajante”</b>. No problema do caixeiro viajante original, temos um conjunto de cidades ligadas por estradas, que possuem um <b>custo</b> de ligação entre elas e se deseja percorrer todas as cidades ao menor custo possível sem repetir nenhuma cidade. A figura exibe uma configuração possível para essa interligação entre cidades, nas quais as cidades são os <b>vértices do grafo</b> e as ligações entre elas são as <b>arestas do grafo</b>.</p>
 <div align="center"><img src="https://i1.wp.com/datalk.me/wp-content/uploads/2019/03/image-1.png?resize=689%2C375&ssl=1"/></div>
-
+<p>Na versão mais simplificada, útil para um problema de roteamento, o objetivo é levar o caixeiro de um ponto determinado a outro, ao menor custo possível. Se quisermos ir da cidade A até a cidade E, temos custos diferentes para cada caminho. Alguns desses custos são:</p>
+<ul>
+  <li><strong>ABCE</strong> – custo: 3+5+8 = 16 </li>
+  <li><strong>ACE</strong> – custo: 4+8 = 12</li>
+  <li><strong>ACDE</strong> – custo: 4+7+4 = 15</li>  
+  <li><strong>ADE</strong> – custo: 6+4 = 10</li>  
+</ul>
 
 
 
