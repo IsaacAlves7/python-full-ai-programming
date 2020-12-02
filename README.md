@@ -8,6 +8,8 @@
   <li>AI - Artificial Intelligence</li>
   <li>Graph search strategy at no cost</li>
   <li>Production rules and expert systems</li>
+  <li>Machine Learning</li>  
+  <li>Deep Learning</li>
 </ol>
 <hr>
 <h1>Capítulo 1: 🧠 AI - Artificial Intelligence 🖥️</h1>
