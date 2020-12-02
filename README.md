@@ -178,7 +178,7 @@ Este método sempre encontra o caminho, caso ele exista. Como expande um nível 
 <h2>💵🅰️ Grafos com custo 🅱️💵</h2>
 <p>Em alguns tipos de problemas, o caminho de um estado para o próximo possui um custo associado. Na pratica, todos os problemas importantes de roteamento possuem custos envolvidos. É o caso de rotas de transporte de cargas, rotas de distribuição de energia elétrica, rotas de encaminhamento de ligações telefônicas, etc. 
 </p>
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/100896919-e3b91700-349d-11eb-9284-7f6798114e16.jpg"/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/100899190-52976f80-34a0-11eb-844e-f5026bb7be57.jpg"/></div>
 <p align="center"><em><strong>figura 1.5:</strong> Uma configuração de grafo com custos</em></p>
 <p>Os problemas de encontrar uma rota de um ponto a outro são uma simplificação do problema mais genérico conhecido como o <b>“problema do caixeiro viajante”</b>. No problema do caixeiro viajante original, temos um conjunto de cidades ligadas por estradas, que possuem um <b>custo</b> de ligação entre elas e se deseja percorrer todas as cidades ao menor custo possível sem repetir nenhuma cidade. A figura exibe uma configuração possível para essa interligação entre cidades, nas quais as cidades são os <b>vértices do grafo</b> e as ligações entre elas são as <b>arestas do grafo</b>.</p>
 
