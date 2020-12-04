@@ -232,8 +232,8 @@ Agora resta como aberto apenas o nó E. Como ele é terminal, podemos parar o pr
 
 Para que possamos compreendê-los, é necessário entender com quais <em>entidades</em> precisamos lidar. Fundamentalmente, podemos falar em duas entidades: os <b>fatos</b> (As verdades ou informações que possuímos sobre um determinado contexto.) e a <b>representação dos conhecimentos</b> (Formalismo simbólico que permite representar e manipular o conhecimento em  um determinado contexto.).</p>
 
-
-
+### Exemplo:🧠🦴 Cachorro Thor 🐺💡
+<p></p>
 
 
 
