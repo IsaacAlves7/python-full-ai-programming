@@ -236,10 +236,144 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 
 ### Exemplo: 🧠🐺 Cachorro Thor 🦴💡
 <div align="center"><img src="https://www.racoesreis.com.br/wordpress/wp-content/uploads/imagem_do_post-49.jpg" width="1700"/></div>
-<p align="center"><strong>Thor é um cachorro</strong></p>
+<p align="center"><strong>1 - Thor é um cachorro</strong></p>
 <p>Este fato pode ser representado em um formalismo lógico como:
 <div align="center"><img src="https://www.racoesreis.com.br/wordpress/wp-content/uploads/imagem_do_post-49.jpg" width="1700"/></div>
-<p align="center"><strong>cachorro Thor</strong></p>
+<p align="center"><strong>2 - cachorro Thor</strong></p>
+<p>Se tivermos um formalismo para representar que todos os cachorros tem rabo, poderíamos escrever:</p>
+<p>3 -</p><pre></pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
