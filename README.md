@@ -13,7 +13,7 @@
   <li>Deep Learning</li>
 </ol>
 <hr>
-<h1 align="center">Cap 1: 🧠 AI - Artificial Intelligence 🖥️</h1>
+<h1 align="center">Cap 01: 🧠 AI - Artificial Intelligence 🖥️</h1>
 <img src="https://www.multimediadesignstudio.com.br/web/images/blog/inteligengia_artificial.jpg"/>
 <p>Apesar de não haver um consenso sobre o que seja exatamente <b>Inteligência Artificial</b>, diferentes autores procuraram definir o termo ao longo do tempo. A seguir listamos algumas dessas definições:</p>
 <blockquote><i>"A automação de atividades que associamos ao pensamento humano, atividades tais como tomadas de decisão , resolução de problemas, aprendizado .." - <b>Bellman</b>, 1978.</blockquote></i>
@@ -167,7 +167,7 @@ Cada estado só deve aparecer uma vez na árvore, de forma que, caso a aplicaç�
 # 🔎📗 Síntese do Capítulo 1 📗🔍
 <blockquote></blockquote>
 <hr>
-<h1>Cap 2: 🔎 Descrição das estratégias de busca em profundidade 🌳</h1>
+<h1>Cap 02: 🔎 Descrição das estratégias de busca em profundidade 🌳</h1>
 <p>A estratégia mais simples possível é a <b>busca em profundidade</b>. Este método procura uma solução qualquer (que não é garantidamente a melhor) e encontra-a ou não (o método não garante que uma solução será encontrada). 
 
 A estratégia consiste em expandir os estados a partir do estado inicial, aplicando qualquer um dos possíveis operadores aplicáveis àquele estado. A escolha do operador pode ser aleatória ou seguir uma sequência arbitrária de testes de possibilidade de aplicação dos operadores. Caso não haja operadores possíveis de aplicar ou caso todos os estados gerados já constem da árvore, o método fracassa. O método obtém sucesso apenas se atinge um estado final.</p>
@@ -225,7 +225,7 @@ Assim, o caminho ACB deve ser desprezado. Também o nó D já aparece em outro r
 
 Agora resta como aberto apenas o nó E. Como ele é terminal, podemos parar o processo, pois qualquer caminho dele derivado será maior que o caminho até ele, haja vista que o custo sempre é positivo. O caminho encontrado (ADE) é o caminho ótimo (de menor custo). Para encontrar este caminho, o algoritmo fechou 2 nós fora do caminho ótimo (B e C) e 3 no caminho ótimo (A, D e E).</p>
 
-<h1 align="center">Cap 03:📖 Regras de Produção e Sistemas Especialistas 🧑‍💼</h1>
+<h1 align="center">Cap 03: 📖 Regras de Produção e Sistemas Especialistas 🧑‍💼</h1>
 
 
 
