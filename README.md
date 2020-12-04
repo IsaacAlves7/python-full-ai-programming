@@ -251,7 +251,7 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 <p align="center"><strong>5 - Thor tem rabo</strong></p>
 <p>Este novo fato, pode ser considerado agora, justamente com os demais conhecimentos existentes para produzir novas inferências, ou seja, gerar novos fatos.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/101213527-47d40a80-3659-11eb-8faa-86a53413755a.jpg"/></div>
-<p></p>
+<p>Se esta geração tiver uma orientação adequada, poderemos produzir fatos que sejam.</p>
 
 
 
