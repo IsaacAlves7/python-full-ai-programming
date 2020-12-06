@@ -255,7 +255,9 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 
 <h2>📖 Regras de Produção 💼</h2>
 <div align="center"><img src="https://www.researchgate.net/profile/Laura_Castro5/publication/279415421/figure/fig16/AS:669521580937226@1536637792518/Architecture-of-an-AI-production-system.ppm" height="370"/></div>
+<p>Outra forma de representar o conhecimento é através de regras.
 
+Sistemas baseados em regras foram bastantes populares no início das pesquisas com IA</p>
 
 
 
