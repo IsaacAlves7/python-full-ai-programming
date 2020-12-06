@@ -413,7 +413,8 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 
 
 
-
+<h1>Deep Learning</h1>
+<img src="https://neofeed.com.br/wp-content/uploads/2019/12/inteligencia-artificial-lado-obscuro.jpg" width="1700"/>
 
 
 <!--
