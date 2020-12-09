@@ -288,8 +288,8 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
   <li><b>Fato 5:</b> É provável que se formem tempestades.</li>
 </ul>
 
-## Estratégia de inferência
-
+## ♟️ Estratégia de inferência 📤
+<p></p>
 
 
 
