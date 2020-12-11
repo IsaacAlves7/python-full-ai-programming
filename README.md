@@ -314,8 +314,10 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
 <p>Onde as regras com círculos serão acionadas, porque as premissas assim o permitem, enquanto que as demais serão apenas investigadas. Se a busca for com a abordagem orientada a objetivos, teremos a cadeia de investigação e acionamento de regras da figura 2.</p>
 
 ![Qualquer coisa](https://user-images.githubusercontent.com/61624336/101947441-45306280-3bcf-11eb-9af5-fa5d985e2b92.jpg)
-<div align="center"><em><strong>Figura 2:</strong> Estratégia de busca orientada a objetivos</em></div>
-
+<div align="center"><em><strong>Figura 2:</strong> Estratégia de busca orientada a objetivos</em></div></br>
+<p>Do primeiro para o segundo passo, o objetivo seria trocado de "bolsa de valores" para "taxa de juros" e iniciar-se-ia a busca por este novo objetivo. Quando ele fosse encontrado (após o acionamento da regra 3), retornar-se-ia à regra abandonada (regra 1) para buscar novamente pelo objetivo original, que seria encontrado após o acionamento da regra 2.
+ 
+O que acontece quando não é mais possível encontrar regras que gerem o conhecimento objetivado, no esquema de backward chain ou não é mais possível gerar novos conhecimentos no esquema forward chain?
 
 
 
