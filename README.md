@@ -322,6 +322,7 @@ O que acontece quando não é mais possível encontrar regras que gerem o conhec
 ## Estratégias de inferência
 <p>A evolução na elaboração de sistemas especialistas com estórias de sucesso levou os projetistas a separar os sistemas em três partes, de forma a facilitar a elaboração de novos sistemas:</p>
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/101953638-71e97780-3bd9-11eb-9eca-1bea5f45494f.jpg)
 
 
 
