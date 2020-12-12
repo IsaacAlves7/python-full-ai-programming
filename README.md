@@ -257,7 +257,7 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 <h2>📖 Regras de Produção 💼</h2>
 <div align="center"><img src="https://endoscopiaterapeutica.com.br/wp-content/uploads/2018/10/333333333333-2006x760.png" width="1700"/></div>
 
-<p>Outra forma de representar o conhecimento é através de <em>regras</em>.
+<p>Outra forma de representar o conhecimento é através de <b>regras</b>.
 
 <b>Sistemas baseados em regras</b> foram bastantes populares no início das pesquisas com IA e ainda tem larga utilização para modelar regras de negócio de aplicações especializadas em uma determinada área. Tais conhecimentos são conhecidos como <b>Sistemas Especialistas</b>. As regras são uma forma de representação do conhecimento bastante próxima da forma humana de expressá-lo.
 
