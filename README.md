@@ -374,7 +374,7 @@ Em qualquer caso, a atribuição dos fatores de confiança relativos às implica
 ## 🔀 Conjuntos Nebulosos 🌁
 <p>Um <b>conjunto nebuloso</b>, também chamado de <b>conjunto fuzzy</b>, é uma função que permite a entrada de um valor escalar e fornece como saída um número entre zero e um, que representa o grau de pertinência (µ) da entrada ao conjunto fuzzy. Por exemplo, podemos definir o conjunto de pessoas altas com dois diferentes tipos de função ilustrados na figura.</p>
 <div align="center"><em><strong>Conjunto crisp e conjunto fuzzy</strong></em></div></br>
-<img src=""/>
+<img src="https://user-images.githubusercontent.com/61624336/101989850-e546c400-3c81-11eb-8af8-dbb053f5a76e.jpg"/>
 
 
 
