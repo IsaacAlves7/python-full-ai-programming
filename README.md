@@ -347,7 +347,19 @@ Tais ambientes, denominados de Shells de Sistemas Especialistas, permitem que o 
     <td>O grau de confiança de todas as premissas é somado e o resultado é subtraído da multiplicação dos mesmos graus de confiança, para obter o grau de confiança da premissa composta.</td>
   </tr>
 </table>
-
+<p>Por exemplo, suponha que conhecemos os fatos A, C e E com confiabilidade de 90% e temos as seguintes regras:</p>
+<ul>
+  <li>Se A Então B (confiabilidade 70%)</li>
+  <li>Se B e C então D (confiabilidade 100%)</li>
+  <li>Se D ou E então F (confiabilidade 40%)</li>
+  <li>Se F então G (confiabilidade 100%)</li>
+</ul>
+<ol>
+  <li>A primeira regra leva a: CF(A) * CF(conclusão) = 0,9 * 0,7 = 0,63 = CF(B)</li>
+  <li>A Segunda regra leva a: CF(B) * CF(C) = 0,63 * 0,9 = 0,567 * 1 = CF(D)</li>
+<li>A terceira regra leva a: CF(D) + CF(E) - CF(D) * CF(E) = 0,567 + 0,9 - 0,567 * 0,9 =  1,467 - 0,51 = 0,957 * 0.4 = 0,383 = CF(F)</li>
+  <li>A quarta regra não será acionada porque CF(F) = 0,383 < 0,50</li>
+</ol>
 
 
 
