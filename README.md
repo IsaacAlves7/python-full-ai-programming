@@ -477,6 +477,7 @@ SE <b>peso é gordo E idade é meia idade</b> ENTÃO <b>risco é alto</b>.</p>
 ## 📚 Métodos de Defuzzificação 📈
 <p>Existem métodos propostos por diversos autores. Dois dos mais usados são:</p>
 <ul>
+  <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102018118-f78c3500-3d49-11eb-8784-116e6ab5f802.jpg"/></div>
   <li><b>Centro de área:</b> Calcula o centro de gravidade da área do conjunto e usa o valor deste ponto (figura). Um problema é que o centro da figura é difícil de calcular se o universo do discurso não for discreto ou se as funções fuzzy forem complexas.</li>
 </ul>
 
