@@ -51,7 +51,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 
 <h3>🌳 Sistemas baseados em conhecimento</h3>
 
-[![Probot](https://img.shields.io/badge/-Show me-blue?style=for-the-badge&logo=Probot&logoColor=white)]()
+[![Probot](https://img.shields.io/badge/-See-blue?style=for-the-badge&logo=Probot&logoColor=white)]()
 
 <ul>
   <li><b>Buscas em tabelas, árvores de decisão, busca heurística, sistemas baseados em regras</b>.</li>
