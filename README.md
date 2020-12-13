@@ -428,7 +428,8 @@ Se idade NÃO é meia-idade então risco de infarto é baixo</br>
 Exemplo para duas variáveis:</br>
 Se temperatura é alta E pressão é baixa então vazão é alta</p>
 
-
+<p>Para a <b>operação de complemento</b> (Ex: Se x NÃO é A então...), a forma de cálculo do antecedente, geralmente é: 1 - µA(x).</br>
+</p>
 
 
 
