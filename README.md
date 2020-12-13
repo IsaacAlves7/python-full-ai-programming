@@ -513,7 +513,7 @@ Para o referido valor de distância (13 jardas), dois conjuntos possuem µ > 0 (
 <p>Assim, para a primeira regra, 
  
 Se DISTÂNCIA = far e ÂNGULO = neg_small</br>
-Então POTÊNCIA = pos_high
+Então POTÊNCIA = pos_high</br>
  
 Temos, na premissa, µ=0,24 e µ=0,30. Para combinar estes valores com o operador lógico E existem, como vimos, diversos métodos. Um dos mais comuns é tomar o mínimo dos dois valores. Assim, o valor da combinação lógica será MIN (0,24; 0,30) = 0,24 e este será o grau de pertinência da premissa da regra. Usando para a inferência também o operador de mínimo, a conclusão da regra será acionada com um grau de pertinência de, no máximo, µ=0,24. 
 Entrando com o valor µ=0,24 no gráfico de funções da variável de saída potência, para o conjunto determinado pela regra (pos_high), temos o resultado da figura.</p>
