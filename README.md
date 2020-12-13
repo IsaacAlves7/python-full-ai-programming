@@ -522,7 +522,7 @@ Entrando com o valor µ=0,24 no gráfico de funções da variável de saída pot
 Se DISTÂNCIA = medium e ÂNGULO = neg_small</br>
 Então POTÊNCIA = pos_high</br>
 temos uma premissa com MIN(0,76; 0,30) = 0,30. Logo, o gráfico da variável de saída terá a forma da figura.</p>
-
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/102025974-1e625f80-3d7a-11eb-984c-a45f48e16e23.jpg"/></div>
 
 
 
