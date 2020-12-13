@@ -395,7 +395,7 @@ Por exemplo:
 SE temperatura é muito quente E fluxo é baixo ENTÃO gire a torneira muito à direita.
 
 SE temperatura é morna E fluxo é médio ENTÃO gire a torneira um pouco à esquerda.</blockquote>
-
+<blockquote>A defuzzificação combina os valores produzidos pelas diversas regras que tenham sido acionadas para uma determinada entrada, produzindo, a partir da combinação dos conjuntos fuzzy, uma saída escalar adequada.</blockquote>
 
 
 
