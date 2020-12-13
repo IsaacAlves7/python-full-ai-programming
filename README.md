@@ -383,7 +383,7 @@ Em qualquer caso, a atribuição dos fatores de confiança relativos às implica
 <p>A <b>Lógica Fuzzy</b> é baseada na teoria dos conjuntos fuzzy. Tradicionalmente, uma proposição lógica tem dois extremos: ou é completamente verdadeiro ou é completamente falso. </p>
 <img src="https://emgotas.files.wordpress.com/2016/11/lc3b3gica-fuzzy2.jpg?w=840" width="1070"/>
 
-## 🔀 Conjuntos Nebulosos 🌁
+## 🔀 Conjuntos Nebulosos (Conjuntos Fuzzy) 🌁
 <p>Um <b>conjunto nebuloso</b>, também chamado de <b>conjunto fuzzy</b>, é uma função que permite a entrada de um valor escalar e fornece como saída um número entre zero e um, que representa o grau de pertinência (µ) da entrada ao conjunto fuzzy. Por exemplo, podemos definir o conjunto de pessoas altas com dois diferentes tipos de função ilustrados na figura.</p>
 <div align="center"><em><strong>Conjunto crisp e conjunto fuzzy</strong></em></div></br>
 <img src="https://user-images.githubusercontent.com/61624336/101990623-a49d7980-3c86-11eb-8208-0eddbb6a00fc.jpg"/>
