@@ -458,7 +458,7 @@ A regra é uma composição de relações Fuzzy onde a primeira relação é um 
 Exemplo:</br>
 SE Homem é novo ENTÃO Homem é mau motorista.</br>
 SE <b>peso é gordo E idade é meia idade</b> ENTÃO <b>risco é alto</b>.</p>
-
+<p>Para calcular a relação de implicação, a forma mais usada é a sugerida por Mandani, apesar de existirem outras, propostas por Zadeh, Takagi-Sugeno, Tsukamoto e outros. Mandani propõem utilizar o mínimo ou o produto dos graus de pertinência.</p>
 
 
 
