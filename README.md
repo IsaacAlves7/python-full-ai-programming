@@ -2,7 +2,7 @@
 <p>It's a repository of full AI (Artificial Intelligence) programming using the Python language.</p>
 <blockquote><b>Obs</b>: Recomendo repetir as mesmas atividades, fazer os exercícios e executar os códigos na sua própria máquina. Além disso, esse é um repositório somente focado em IA, caso precise aprender a Linguagem de Programação Python e os seus paradigmas acesse o link abaixo para o repositório de programação Python.</blockquote><br>
 
-[![Python](https://img.shields.io/badge/-python-programming-lime?style=for-the-badge&logo=Python&logoColor=blue)]()
+[![Python](https://img.shields.io/badge/-python-yellow?style=for-the-badge&logo=Python&logoColor=blue)](https://github.com/IsaacAlves7/python-programming)
 
 <img src="https://www.isktechnologies.com/img/blog/python-for-ai-mi-banner.jpg" width="1070"/>
 
