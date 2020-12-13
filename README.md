@@ -530,7 +530,7 @@ temos o grau de pertinência da premissa como MIN(0,76; 0,70) = 0,70. Assim o gr
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102026364-2e7b3e80-3d7c-11eb-8444-077c299b6bdf.jpg"/></div>
 <p>Como resultado da aplicação das três regras, temos a forma da figura:</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102026580-6c2c9700-3d7d-11eb-9a8b-37153cfd8d0f.jpg"/></div>
-
+<p>Como as três regras foram acionadas, temos a união dos três conjuntos. Para representar a união, geralmente utiliza-se o máximo dos conjuntos (Mandani), o que, portanto, resulta na forma da figura.</p>
 
 
 
