@@ -519,8 +519,8 @@ Então POTÊNCIA = pos_high</br></p>
 Entrando com o valor µ=0,24 no gráfico de funções da variável de saída potência, para o conjunto determinado pela regra (pos_high), temos o resultado da figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102025887-90867480-3d79-11eb-925d-e6f6dd91ce48.jpg"/></div>
 <p>Da mesma forma, para a segunda regra,
-Se DISTÂNCIA = medium e ÂNGULO = neg_small
-Então POTÊNCIA = pos_high
+Se DISTÂNCIA = medium e ÂNGULO = neg_small</br>
+Então POTÊNCIA = pos_high</br>
 temos uma premissa com MIN(0,76; 0,30) = 0,30. Logo, o gráfico da variável de saída terá a forma da figura.</p>
 
 
