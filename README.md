@@ -380,7 +380,7 @@ Como a CF(F) anterior era 0,383, a nova CF(F) = 0,567 + 0,383 - 0,567 * 0,383 = 
 Em qualquer caso, a atribuição dos fatores de confiança relativos às implicações é de responsabilidade do especialista que definiu a regra e, provavelmente, é oriundo da experiência na aplicação do conhecimento formal aprendido em casos de uso do passado.</p>
 
 # Cap 04: 🔀 Lógica Nebulosa (Fuzzy) e Sistemas baseados em regras Fuzzy 💹
-<p>A Lógica Fuzzy é baseada na teoria dos conjuntos fuzzy. Tradicionalmente, uma proposição lógica tem dois extremos: ou é completamente verdadeiro ou é completamente falso. </p>
+<p>A <b>Lógica Fuzzy</b> é baseada na teoria dos conjuntos fuzzy. Tradicionalmente, uma proposição lógica tem dois extremos: ou é completamente verdadeiro ou é completamente falso. </p>
 <img src="https://emgotas.files.wordpress.com/2016/11/lc3b3gica-fuzzy2.jpg?w=840" width="1070"/>
 
 ## 🔀 Conjuntos Nebulosos 🌁
