@@ -481,7 +481,7 @@ SE <b>peso é gordo E idade é meia idade</b> ENTÃO <b>risco é alto</b>.</p>
   <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102018118-f78c3500-3d49-11eb-8784-116e6ab5f802.jpg"/></div>
   Um problema é que o centro da figura é difícil de calcular se o universo do discurso não for discreto ou se as funções fuzzy forem complexas.</li>
   <li><b>Média dos máximos:</b> Observa o conjunto Fuzzy de saída C e determina os valores x de saída para os quais m C (x) é máximo, ou seja, pega os valores de máximo de cada conjunto que contribuiu para formar o conjunto C de saída. Em seguida, calcula a média destes valores de máximo ponderados pelos graus de pertinência dos respectivos conjuntos e usa-se este valor de média como a saída desejada. 
-
+  <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102018283-29ea6200-3d4b-11eb-9f63-4d73dddbe811.jpg"/></div>
 O valor de saída z é calculado como: z = (MC1 . µC1 + MC2 . µC2) / (µC1 + µC2).</li>
 </ul>
 
