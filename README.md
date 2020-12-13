@@ -399,7 +399,7 @@ Em qualquer caso, a atribuição dos fatores de confiança relativos às implica
 
 ## 💼 Sistemas de lógica Fuzzy 💹
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102001311-73956700-3ccf-11eb-82c7-1fafe7858a55.jpg"/></div>
-<p>Um sistema fuzzy lida com conjuntos fuzzy para fazer as tarefas de fuzzyficação dos valores escalares do mundo real, para que possam ser manipulados como entidades linguísticas (Pessoas altas no caso da figura.) e, após a aplicação de <b>regras</b> de inferência que são expressas com essas entidades linguísticas, mas lidam na verdade com os valores de pertinência, produzir através de um processo chamado <b>defuzzyficação</b> os valores escalares que se apliquem à saída para o mundo real. 
+<p>Um <b>sistema fuzzy</b> lida com conjuntos fuzzy para fazer as tarefas de fuzzyficação dos valores escalares do mundo real, para que possam ser manipulados como entidades linguísticas (Pessoas altas no caso da figura.) e, após a aplicação de <b>regras</b> de inferência que são expressas com essas entidades linguísticas, mas lidam na verdade com os valores de pertinência, produzir através de um processo chamado <b>defuzzyficação</b> os valores escalares que se apliquem à saída para o mundo real. 
 O modelo pode ser representado como na figura.</p>
 <blockquote>As regras combinam variáveis linguísticas (quente, alto, barato, etc.), quantificadores (muito, pouco, extremamente, etc.), operadores lógicos (E, OU, NÃO) e de implicação (SE, ENTÃO).
 Por exemplo:
@@ -429,7 +429,7 @@ Exemplo para duas variáveis:</br>
 Se temperatura é alta E pressão é baixa então vazão é alta</p>
 
 <p>Para a <b>operação de complemento</b> (Ex: Se x NÃO é A então...), a forma de cálculo do antecedente, geralmente é: 1 - µA(x).</br>
-</p>
+Para a União e a interseção, existem diferentes formas, propostas por diferentes autores, para realizar as operações, como mostra a tabela a seguir:</p>
 
 
 
