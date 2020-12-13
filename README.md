@@ -507,7 +507,7 @@ O valor de saída z é calculado como: z = (MC1 . µC1 + MC2 . µC2) / (µC1 + �
 <p>Assim, se em um determinado instante, temos valores específicos para as variáveis de entrada, como por exemplo, distância = 13 jardas e ângulo = -45 graus, diferentes regras podem ser concomitantemente acionadas. 
 
 Para o referido valor de distância (13 jardas), dois conjuntos possuem µ > 0 (observe que a linha vertical que parte do valor 13 corta duas curvas de funções de pertinência). Ou seja, distância=medium com µ =0,76 e distância=far com µ =0,24. Observe a figura. </p>
-
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/102022993-3a113a00-3d69-11eb-8968-b9520d728b04.jpg"/></div>
 
 
 
