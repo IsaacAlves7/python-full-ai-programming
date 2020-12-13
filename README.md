@@ -445,7 +445,7 @@ Para a União e a interseção, existem diferentes formas, propostas por diferen
 </ul>
 <p>Para modelar o calculo da influência dos quantificadores de intensificação nos conjuntos Fuzzy originais, podemos usar potências inteiras. Ou seja, µintensificador de A = (µA)ⁿ. Desta forma, para diferentes valores de n poderíamos modelar diferentes quantificadores de intensificação, conforme mostrado na figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102014842-dff78100-3d36-11eb-9535-5de90e8b9c2f.jpg"/></div>
-<p>Por outro lado, para calcular a influência dos quantificadores de atenuação nos conjuntos Fuzzy, podemos usar potências fracionárias. Ou seja, µatenuador de A = (µA)¹/ⁿ. Assim sendo, para diferentes valores de n poderíamos modelar diferentes quantificadores de atenuação, conforme mostrado na figura.</p>
+<p>Por outro lado, para calcular a influência dos quantificadores de atenuação nos conjuntos Fuzzy, podemos usar potências fracionárias. Ou seja, µatenuador de A = (µA)⅟ⁿ. Assim sendo, para diferentes valores de n poderíamos modelar diferentes quantificadores de atenuação, conforme mostrado na figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102015052-dae70180-3d37-11eb-84d2-f6ac7411bc90.jpg"/></div>
 
 <div align="center"><h1>Cap 05: 🔀 Fuzzy system building 🧱</h1></div>
@@ -459,7 +459,7 @@ Exemplo:</br>
 SE Homem é novo ENTÃO Homem é mau motorista.</br>
 SE <b>peso é gordo E idade é meia idade</b> ENTÃO <b>risco é alto</b>.</p>
 <p>Para calcular a relação de implicação, a forma mais usada é a sugerida por Mandani, apesar de existirem outras, propostas por Zadeh, Takagi-Sugeno, Tsukamoto e outros. Mandani propõem utilizar o mínimo ou o produto dos graus de pertinência.</p>
-
+<p>Usando o mínimo: µp→
 
 
 
