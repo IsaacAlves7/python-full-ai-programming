@@ -457,7 +457,7 @@ A regra é uma composição de relações Fuzzy onde a primeira relação é um 
 
 Exemplo:</br>
 SE Homem é novo ENTÃO Homem é mau motorista.</br>
-SE peso é gordo E idade é meia idade ENTÃO risco é alto.</p>
+SE <b>peso é gordo E idade é meia idade</b> ENTÃO <b>risco é alto</b>.</p>
 
 
 
