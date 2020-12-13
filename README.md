@@ -540,9 +540,10 @@ temos o grau de pertinência da premissa como MIN(0,76; 0,70) = 0,70. Assim o gr
 Média = (10 x 0,7 + 23,5 x 0,3) / (0,7 + 0,3) = 14,05</br>
 </br>
 Ou seja, para uma distância de 12 jardas e um ângulo de -45 graus, o controle Fuzzy produz como saída uma potência de 14,05 KW a ser aplicada ao motor do guindaste. Esse valor seria aplicado na planta geraria uma alteração da distância e do ângulo da carga, o que realimentaria o controle fuzzy na próxima iteração.</p>
+<h1>Cap 06: 🐵 Evolved Systems and Genetic Algorithms 🧬</h1>
 
-
-
+## 😵 O problema de otimização 🤯
+<p></p>
 
 
 
