@@ -450,7 +450,9 @@ Para a União e a interseção, existem diferentes formas, propostas por diferen
 <div align="center"><h1>Cap 05: 🔀 Fuzzy system building 🧱</h1></div>
 
 ## 🧐 Inferência Fuzzy 🔀
-<p></p>
+<p>A <b>inferência Fuzzy</b> é uma relação lógica que obedece à mesma tabela verdade da Implicação Modus Ponens da lógica proposicional tradicional (lógica crisp). A diferença é que na lógica crisp, a regra é acionada somente se a premissa for verdadeira e na lógica fuzzy a regra é acionada quando a premissa possui um grau de pertinência diferente de zero.
+
+A regra é uma composição de relações Fuzzy onde a primeira relação é um conjunto fuzzy (possivelmente resultante de uma operação Fuzzy) e a segunda relação é de implicação</p>
 
 
 
