@@ -68,7 +68,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 
 <h3>🧠 Modelos Conexionistas (Redes Neurais)</h3>
 
-
+[![Probot]()
 
 <ul>
   <li>Lidam com <b>conhecimento não simbolicamente representado</b>.</li>
@@ -91,6 +91,9 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 </ul>
 
 <h3>🧬 Computação Evolucionária (Algoritmos Genéticos)</h3>
+
+[![Probot](https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-06-%EF%B8%8F-evolved-systems-and-genetic-algorithms-)
+
 <ul>
   <li>São algoritmos de otimização global que baseiam-se nos mecanismos da <b>seleção natural e da genética</b>.</li>
   <li>Empregam <b>uma estratégia de busca paralela e estruturada</b>, que é voltada em direção ao reforço da busca de pontos de “alta aptidão”.</li>  
