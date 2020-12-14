@@ -558,7 +558,7 @@ Quando a abordagem escolhida é estudar os problemas de otimização como proble
 Mesmo trabalhando com uma <em>função mono-parametrizada</em>, é possível que esta possua, dentro de um determinado intervalo, vários pontos de mínimos ou máximos relativos, conhecidos como mínimos locais e máximos locais, havendo somente um ponto de mínimo global ou de máximo global no intervalo. Uma função desse tipo é chamada de <b>unimodal</b>.</p>
 <p>Tomemos por exemplo a função f(x) = x sen (3 x) no intervalo -5<x<10, cujo gráfico encontra-se na figura 1. Sob o ponto de vista de maximização ela é unimodal pois, no intervalo considerado, ela possui um ponto de máximo para x = 8,91 no qual f(x) = 8,92.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102034373-a0fc1680-3d9c-11eb-9801-0c14ccd1bd18.jpg"/></div>
-<div align="center"><em><strong>Figura 1:</strong> Função mono-parametrizada unimodal: f(x) = x sen (3 x)</div>
+<div align="center"><em><strong>Figura 1:</strong> Função mono-parametrizada unimodal: f(x) = x sen (3 x)</em></div>
 <p>Já uma função multimodal possui mais de um máximo global para um determinado intervalo. Tomemos, por exemplo, a função f(x) = sen (x/2) + cos (2x)/1,5 no intervalo -14<x<20, vista na figura 2. A função possui pontos de máximo em x = -9.42, x = 3 e x = 15,71. Nesses pontos temos f(x) = 1,66666..., que vem a ser o valor máximo que a função atinge nesse intervalo.</p>
 
 
