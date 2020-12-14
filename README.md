@@ -569,9 +569,7 @@ Mesmo trabalhando com uma <em>função mono-parametrizada</em>, é possível que
 <div align="center"><em><strong>Figura 1:</strong> Função mono-parametrizada unimodal: f(x) = x sen (3 x)</em></div></br>
 
 <p>Já uma função multimodal possui mais de um máximo global para um determinado intervalo. Tomemos, por exemplo, a função f(x) = sen (x/2) + cos (2x)/1,5 no intervalo -14&lt;x&lt;20, vista na figura 2. A função possui pontos de máximo em x = -9.42, x = 3 e x = 15,71. Nesses pontos temos f(x) = 1,66666..., que vem a ser o valor máximo que a função atinge nesse intervalo.</p>
-
-
-
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/102041828-36a0a180-3daf-11eb-939a-373c3d02fe9f.jpg"/></div>
 
 
 
