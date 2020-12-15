@@ -594,8 +594,8 @@ A capacidade de descobrir várias soluções (particularmente útil para funçõ
 A característica de não imporem condições especiais à função a ser otimizada (continuidade, existência de derivada, etc.);
 A possibilidade de funcionarem bem em espaços de busca com muitas dimensões;
 A capacidade de permitirem modelar restrições e otimizar simultaneamente múltiplas funções, mesmo que conflitantes;
-• A capacidade de ser facilmente mesclados com outras técnicas heurísticas, compondo soluções híbridas que exploram as qualidades individuais de cada técnica específica; e,
-• A característica de serem fáceis de implantar computacionalmente, não dependendo de profunda compreensão do problema a ser otimizado e de sua modelagem.
+A capacidade de ser facilmente mesclados com outras técnicas heurísticas, compondo soluções híbridas que exploram as qualidades individuais de cada técnica específica; e,
+A característica de serem fáceis de implantar computacionalmente, não dependendo de profunda compreensão do problema a ser otimizado e de sua modelagem.
 
 Entretanto, tais métodos são computacionalmente intensos e podem demorar a convergir para uma solução aceitável (dependendo da parametrização, como veremos adiante). Portanto, sua principal restrição é a utilização em problemas de otimização que exijam respostas em tempo real.</li>
 </ol>
