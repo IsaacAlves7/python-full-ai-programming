@@ -9,7 +9,7 @@
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-02--descri%C3%A7%C3%A3o-das-estrat%C3%A9gias-de-busca-em-profundidade-">🔎 Graph search strategy at no cost 🌳</a></li>
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-03--regras-de-produ%C3%A7%C3%A3o-e-sistemas-especialistas-">📖 Production Rules and Expert Systems 💼</a></li>
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-04--l%C3%B3gica-nebulosa-fuzzy-e-sistemas-baseados-em-regras-fuzzy-">🔀 Nebulous Logic (Fuzzy) and Systems based in Fuzzy rules 💹</a></li>
-  <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-05--fuzzy-system-building-">🔀 Fuzzy system building 🧱</a></li>
+  <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-05--fuzzy-system-building-">🔀 Fuzzy system building 🏗️</a></li>
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-06-%EF%B8%8F-evolved-systems-and-genetic-algorithms-">👨‍⚕️ Evolved Systems and Genetic Algorithms 🧬</a></li>  
   <li>🐍 Python Language and R-Project 📗</li>  
   <li>🧪 Data Science 📈</li>  
@@ -462,7 +462,7 @@ Para a União e a interseção, existem diferentes formas, propostas por diferen
 <p>Por outro lado, para calcular a influência dos quantificadores de atenuação nos conjuntos Fuzzy, podemos usar potências fracionárias. Ou seja, µatenuador de A = (µA)⅟ⁿ. Assim sendo, para diferentes valores de n poderíamos modelar diferentes quantificadores de atenuação, conforme mostrado na figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102015052-dae70180-3d37-11eb-84d2-f6ac7411bc90.jpg"/></div>
 
-<div align="center"><h1>Cap 05: 🔀 Fuzzy system building 🧱</h1></div>
+<div align="center"><h1>Cap 05: 🔀 Fuzzy system building 🏗️</h1></div>
 
 ## 🧐 Inferência Fuzzy 🔀
 <p>A <b>inferência Fuzzy</b> é uma relação lógica que obedece à mesma tabela verdade da Implicação Modus Ponens da lógica proposicional tradicional (lógica crisp). A diferença é que na lógica crisp, a regra é acionada somente se a premissa for verdadeira e na lógica fuzzy a regra é acionada quando a premissa possui um grau de pertinência diferente de zero.
