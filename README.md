@@ -14,7 +14,9 @@
   <li>🐍 Python Language and R-Project 📗</li>  
   <li>🧪 Data Science 📈</li>  
   <li>🤖 Machine Learning 📚</li>  
+  <li>🗣️ Voice Recognition 👂</li>
   <li>👤 Deep Learning 📚</li>
+  <li>👥</li>
   <li>🏁 Final Project 🤩</li>
 </ol>
 <hr>
