@@ -1,8 +1,8 @@
 # <img src="https://static.wikia.nocookie.net/pixar/images/c/ca/Eve_wall%E2%80%A2e_clipped_rev_1.png/revision/latest?cb=20131115143452" height="37"> Python AI Development 🐍🌳🧠🔀🧬🤖👤📈
 <p>It's a repository of full AI (Artificial Intelligence) programming using the Python language.</p>
 
-<div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/r_button_icon_151924.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ai_button_icon_151919.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png" height="47"></div>
-<a href="https://github.com/IsaacAlves7/python-programming"><img src="https://www.isktechnologies.com/img/blog/python-for-ai-mi-banner.jpg" width="1070" title="Click on image to access the Python programming repository"/></a>
+<div align="left"><a href="https://github.com/IsaacAlves7/python-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" height="47"></a><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/r_button_icon_151924.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ai_button_icon_151919.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png" height="47"></div>
+<a href="https://github.com/IsaacAlves7/python-ai-development"><img src="https://www.isktechnologies.com/img/blog/python-for-ai-mi-banner.jpg" width="1070" title="Click on image to access the Python programming repository"/></a>
 
 <blockquote>⚠️ <b>Warning:</b> I recommend to repeat the same activities, do the exercices and execute the codes on your own machine. Besides that, it's a repository only focused in AI development, if you need to learn the Python Language and his paradigms, click on picture below to be redirected for the Python programming repository.</blockquote>
 
