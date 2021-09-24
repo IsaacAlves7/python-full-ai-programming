@@ -1,15 +1,16 @@
 # 🧠 AI - Artificial Intelligence Development 🤖
-<p>It's a repository of full AI (Artificial Intelligence) programming using the Python language.</p>
+<blockquote>It's a repository of full AI (Artificial Intelligence) programming using the Python language.</blockquote>
 
-<!-- 
-<div align="left"><a href="https://github.com/IsaacAlves7/python-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" height="47"></a><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/r_button_icon_151924.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ai_button_icon_151919.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png" height="47"></div>
-<a href="https://github.com/IsaacAlves7/python-ai-development"><img src="https://www.isktechnologies.com/img/blog/python-for-ai-mi-banner.jpg" width="1070"/></a>
+
+<!-- <div align="left"><a href="https://github.com/IsaacAlves7/python-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" height="47"></a><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/r_button_icon_151924.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ai_button_icon_151919.png" height="47"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png" height="47"></div>
  -->
+<a href="https://github.com/IsaacAlves7/python-ai-development"><img src="https://www.isktechnologies.com/img/blog/python-for-ai-mi-banner.jpg" width="1777"></a>
+
  
 <blockquote>⚠️ <b>Warning:</b> I recommend to repeat the same activities, do the exercices and execute the codes on your own machine. Besides that, it's a repository only focused in AI development, if you need to learn the Python Language and his paradigms, click on picture below to be redirected for the Python programming repository.</blockquote>
 
 <hr>
-<h1 align="center" class="cap1">Cap 01: 🧠 AI - Artificial Intelligence 🖥️</h1>
+<h1 align="center" class="cap1">🧠 AI - Artificial Intelligence 🖥️</h1>
 <img src="https://www.multimediadesignstudio.com.br/web/images/blog/inteligengia_artificial.jpg"/>
 <p>Apesar de não haver um consenso sobre o que seja exatamente <b>Inteligência Artificial</b>, diferentes autores procuraram definir o termo ao longo do tempo. A seguir listamos algumas dessas definições:</p>
 <blockquote><i>"A automação de atividades que associamos ao pensamento humano, atividades tais como tomadas de decisão , resolução de problemas, aprendizado .." - <b>Bellman</b>, 1978.</blockquote></i>
